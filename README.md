@@ -8,7 +8,7 @@ Moodster is a social video platform where users can discover content based on th
 
 If you experience any issues or have questions about the app, please contact us:
 
-Email: support@moodster.app
+Email: moodsterinfo@gmail.com
 
 We will respond as soon as possible.
 
