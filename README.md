@@ -58,4 +58,4 @@ Legal compliance:
 • We report confirmed illegal content to relevant authorities when required
 
 Contact:
-For child safety concerns, contact: afndanmark@gmail.com
+For child safety concerns, contact: moodsterinfo@gmail.com
