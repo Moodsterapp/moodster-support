@@ -35,3 +35,27 @@ When an account is deleted:
 • Associated account data is removed from our servers
 
 Some data may remain temporarily in secure backups for up to 30 days before being permanently deleted.
+
+Moodster Child Safety Standards
+
+Moodster has a zero-tolerance policy for child sexual abuse and exploitation (CSAE).
+
+We strictly prohibit:
+• Any content involving minors in sexual or exploitative contexts
+• Grooming, solicitation, or inappropriate interactions with minors
+• Sharing or promoting child sexual abuse material (CSAM)
+
+Enforcement:
+• Content is monitored using automated systems and manual review
+• Violations result in immediate removal and permanent account bans
+
+Reporting:
+• Users can report content or accounts directly within the app
+• Reports are reviewed promptly
+
+Legal compliance:
+• We comply with all applicable child safety laws
+• We report confirmed illegal content to relevant authorities when required
+
+Contact:
+For child safety concerns, contact: afndanmark@gmail.com
